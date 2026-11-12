@@ -2,9 +2,9 @@ name: Daily flight prices
 
 on:
   schedule:
-    # 18:47 UTC = 4:47am Brisbane, well before the 6:38am Claude task
+    # 21:47 UTC = 7:47am Brisbane, well before the 9:38am Claude task
     # (GitHub's scheduled runs can be delayed by up to an hour or so)
-    - cron: "47 18 * * *"
+    - cron: "47 21 * * *"
   workflow_dispatch: {}
 
 permissions:
