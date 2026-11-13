@@ -5,3 +5,9 @@ checked,search,out,back,cheapest,cheapest_airline,cheapest_stops,cheapest_direct
 2026-11-12,KIX-BNE one-way,2027-05-17,,412,Jetstar,0,412,Jetstar,typical,405,720
 2026-11-12,BNE-TYO return,2027-05-07,2027-05-17,1126,China Southern,1,1198,Jetstar,typical,840,1300
 2026-11-12,BNE-KIX return,2027-05-07,2027-05-17,1039,Jetstar,0,1039,Jetstar,typical,900,1350
+2026-11-13,BNE-TYO one-way,2027-05-07,,678,China Southern,1,693,Jetstar,typical,435,850
+2026-11-13,BNE-KIX one-way,2027-05-07,,652,Jetstar,0,652,Jetstar,typical,470,860
+2026-11-13,TYO-BNE one-way,2027-05-17,,449,Jetstar,0,449,Jetstar,typical,385,680
+2026-11-13,KIX-BNE one-way,2027-05-17,,413,Jetstar,0,413,Jetstar,typical,405,720
+2026-11-13,BNE-TYO return,2027-05-07,2027-05-17,1126,Jetstar,0,1126,Jetstar,typical,840,1300
+2026-11-13,BNE-KIX return,2027-05-07,2027-05-17,1039,Jetstar,0,1039,Jetstar,typical,900,1350
