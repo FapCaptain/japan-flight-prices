@@ -1,6 +1,6 @@
 {
-  "checked": "2026-11-13",
-  "checked_at": "2026-11-13T12:10+10:00",
+  "checked": "2026-11-14",
+  "checked_at": "2026-11-14T11:52+10:00",
   "currency": "AUD",
   "per_person": true,
   "best_combined": {
@@ -119,21 +119,21 @@
           "duration_min": 1125
         },
         {
-          "price": 781,
-          "airlines": "Jetstar",
+          "price": 792,
+          "airlines": "China Eastern, Shanghai Airlines",
           "stops": 1,
           "layovers": [
-            "KIX"
+            "PVG"
           ],
           "flight_numbers": [
-            "JQ 23",
-            "GK 230"
+            "MU 716",
+            "FM 815"
           ],
-          "depart": "2027-05-07 11:40",
+          "depart": "2027-05-07 11:05",
           "depart_airport": "BNE",
-          "arrive": "2027-05-08 09:05",
-          "arrive_airport": "NRT",
-          "duration_min": 1345
+          "arrive": "2027-05-08 12:30",
+          "arrive_airport": "HND",
+          "duration_min": 1585
         }
       ],
       "price_insights": {
@@ -285,7 +285,7 @@
       "return_date": null,
       "fare_type": "One-way",
       "cheapest": {
-        "price": 449,
+        "price": 452,
         "airlines": "Jetstar",
         "stops": 0,
         "layovers": [],
@@ -299,7 +299,7 @@
         "duration_min": 535
       },
       "cheapest_direct": {
-        "price": 449,
+        "price": 452,
         "airlines": "Jetstar",
         "stops": 0,
         "layovers": [],
@@ -314,7 +314,7 @@
       },
       "top_options": [
         {
-          "price": 449,
+          "price": 452,
           "airlines": "Jetstar",
           "stops": 0,
           "layovers": [],
@@ -328,7 +328,7 @@
           "duration_min": 535
         },
         {
-          "price": 495,
+          "price": 498,
           "airlines": "Jetstar",
           "stops": 1,
           "layovers": [
@@ -345,24 +345,7 @@
           "duration_min": 1370
         },
         {
-          "price": 683,
-          "airlines": "China Southern",
-          "stops": 1,
-          "layovers": [
-            "CAN"
-          ],
-          "flight_numbers": [
-            "CZ 8102",
-            "CZ 381"
-          ],
-          "depart": "2027-05-17 14:45",
-          "depart_airport": "NRT",
-          "arrive": "2027-05-18 08:25",
-          "arrive_airport": "BNE",
-          "duration_min": 1000
-        },
-        {
-          "price": 710,
+          "price": 504,
           "airlines": "Vietjet",
           "stops": 1,
           "layovers": [
@@ -379,7 +362,7 @@
           "duration_min": 1110
         },
         {
-          "price": 891,
+          "price": 897,
           "airlines": "Qantas",
           "stops": 0,
           "layovers": [],
@@ -391,10 +374,27 @@
           "arrive": "2027-05-18 07:45",
           "arrive_airport": "BNE",
           "duration_min": 540
+        },
+        {
+          "price": 946,
+          "airlines": "Qantas",
+          "stops": 1,
+          "layovers": [
+            "SYD"
+          ],
+          "flight_numbers": [
+            "QF 60",
+            "QF 514"
+          ],
+          "depart": "2027-05-17 22:00",
+          "depart_airport": "HND",
+          "arrive": "2027-05-18 12:40",
+          "arrive_airport": "BNE",
+          "duration_min": 820
         }
       ],
       "price_insights": {
-        "lowest_price": 449,
+        "lowest_price": 452,
         "price_level": "typical",
         "typical_price_range": [
           385,
@@ -412,7 +412,7 @@
       "return_date": null,
       "fare_type": "One-way",
       "cheapest": {
-        "price": 413,
+        "price": 415,
         "airlines": "Jetstar",
         "stops": 0,
         "layovers": [],
@@ -426,7 +426,7 @@
         "duration_min": 525
       },
       "cheapest_direct": {
-        "price": 413,
+        "price": 415,
         "airlines": "Jetstar",
         "stops": 0,
         "layovers": [],
@@ -441,7 +441,7 @@
       },
       "top_options": [
         {
-          "price": 413,
+          "price": 415,
           "airlines": "Jetstar",
           "stops": 0,
           "layovers": [],
@@ -455,7 +455,7 @@
           "duration_min": 525
         },
         {
-          "price": 536,
+          "price": 539,
           "airlines": "Jetstar",
           "stops": 1,
           "layovers": [
@@ -472,7 +472,7 @@
           "duration_min": 1330
         },
         {
-          "price": 1071,
+          "price": 1078,
           "airlines": "China Airlines",
           "stops": 1,
           "layovers": [
@@ -487,13 +487,47 @@
           "arrive": "2027-05-18 10:35",
           "arrive_airport": "BNE",
           "duration_min": 870
+        },
+        {
+          "price": 1256,
+          "airlines": "Korean Air",
+          "stops": 1,
+          "layovers": [
+            "ICN"
+          ],
+          "flight_numbers": [
+            "KE 722",
+            "KE 407"
+          ],
+          "depart": "2027-05-17 09:05",
+          "depart_airport": "KIX",
+          "arrive": "2027-05-18 06:45",
+          "arrive_airport": "BNE",
+          "duration_min": 1240
+        },
+        {
+          "price": 1469,
+          "airlines": "Korean Air",
+          "stops": 1,
+          "layovers": [
+            "ICN"
+          ],
+          "flight_numbers": [
+            "KE 724",
+            "KE 407"
+          ],
+          "depart": "2027-05-17 12:35",
+          "depart_airport": "KIX",
+          "arrive": "2027-05-18 06:45",
+          "arrive_airport": "BNE",
+          "duration_min": 1030
         }
       ],
       "price_insights": {
-        "lowest_price": 413,
+        "lowest_price": 415,
         "price_level": "typical",
         "typical_price_range": [
-          405,
+          410,
           720
         ]
       },
@@ -568,7 +602,7 @@
           "duration_min": 1345
         },
         {
-          "price": 1219,
+          "price": 1220,
           "airlines": "China Airlines",
           "stops": 1,
           "layovers": [
@@ -729,7 +763,7 @@
           "duration_min": 850
         },
         {
-          "price": 1527,
+          "price": 1531,
           "airlines": "Cathay Pacific",
           "stops": 1,
           "layovers": [
