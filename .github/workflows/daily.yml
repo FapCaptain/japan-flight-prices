@@ -4,7 +4,6 @@ on:
   schedule:
     # 16:47 UTC = 2:47am Brisbane. GitHub usually starts scheduled runs 3 to 4.5 hours late,
     # so this lands roughly 6 to 7:30am, ahead of the 9:38am Claude task
-    # (GitHub's scheduled runs can be delayed by up to an hour or so)
     - cron: "47 16 * * *"
   workflow_dispatch: {}
 
