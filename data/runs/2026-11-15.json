@@ -1,6 +1,6 @@
 {
   "checked": "2026-11-15",
-  "checked_at": "2026-11-15T11:21+10:00",
+  "checked_at": "2026-11-15T19:32+10:00",
   "currency": "AUD",
   "per_person": true,
   "best_combined": {
@@ -102,6 +102,23 @@
           "duration_min": 1125
         },
         {
+          "price": 781,
+          "airlines": "Jetstar",
+          "stops": 1,
+          "layovers": [
+            "KIX"
+          ],
+          "flight_numbers": [
+            "JQ 23",
+            "GK 230"
+          ],
+          "depart": "2027-05-07 11:40",
+          "depart_airport": "BNE",
+          "arrive": "2027-05-08 09:05",
+          "arrive_airport": "NRT",
+          "duration_min": 1345
+        },
+        {
           "price": 924,
           "airlines": "China Airlines",
           "stops": 1,
@@ -117,23 +134,6 @@
           "arrive": "2027-05-08 13:15",
           "arrive_airport": "NRT",
           "duration_min": 925
-        },
-        {
-          "price": 1047,
-          "airlines": "Cathay Pacific",
-          "stops": 1,
-          "layovers": [
-            "HKG"
-          ],
-          "flight_numbers": [
-            "CX 156",
-            "CX 526"
-          ],
-          "depart": "2027-05-07 00:05",
-          "depart_airport": "BNE",
-          "arrive": "2027-05-07 13:40",
-          "arrive_airport": "NRT",
-          "duration_min": 875
         }
       ],
       "price_insights": {
@@ -362,7 +362,24 @@
           "duration_min": 1110
         },
         {
-          "price": 897,
+          "price": 687,
+          "airlines": "China Southern",
+          "stops": 1,
+          "layovers": [
+            "CAN"
+          ],
+          "flight_numbers": [
+            "CZ 8102",
+            "CZ 381"
+          ],
+          "depart": "2027-05-17 14:45",
+          "depart_airport": "NRT",
+          "arrive": "2027-05-18 08:25",
+          "arrive_airport": "BNE",
+          "duration_min": 1000
+        },
+        {
+          "price": 896,
           "airlines": "Qantas",
           "stops": 0,
           "layovers": [],
@@ -374,23 +391,6 @@
           "arrive": "2027-05-18 07:45",
           "arrive_airport": "BNE",
           "duration_min": 540
-        },
-        {
-          "price": 946,
-          "airlines": "Qantas",
-          "stops": 1,
-          "layovers": [
-            "SYD"
-          ],
-          "flight_numbers": [
-            "QF 60",
-            "QF 514"
-          ],
-          "depart": "2027-05-17 22:00",
-          "depart_airport": "HND",
-          "arrive": "2027-05-18 12:40",
-          "arrive_airport": "BNE",
-          "duration_min": 820
         }
       ],
       "price_insights": {
@@ -472,7 +472,7 @@
           "duration_min": 1330
         },
         {
-          "price": 1078,
+          "price": 1077,
           "airlines": "China Airlines",
           "stops": 1,
           "layovers": [
@@ -487,40 +487,6 @@
           "arrive": "2027-05-18 10:35",
           "arrive_airport": "BNE",
           "duration_min": 870
-        },
-        {
-          "price": 1256,
-          "airlines": "Korean Air",
-          "stops": 1,
-          "layovers": [
-            "ICN"
-          ],
-          "flight_numbers": [
-            "KE 722",
-            "KE 407"
-          ],
-          "depart": "2027-05-17 09:05",
-          "depart_airport": "KIX",
-          "arrive": "2027-05-18 06:45",
-          "arrive_airport": "BNE",
-          "duration_min": 1240
-        },
-        {
-          "price": 1469,
-          "airlines": "Korean Air",
-          "stops": 1,
-          "layovers": [
-            "ICN"
-          ],
-          "flight_numbers": [
-            "KE 724",
-            "KE 407"
-          ],
-          "depart": "2027-05-17 12:35",
-          "depart_airport": "KIX",
-          "arrive": "2027-05-18 06:45",
-          "arrive_airport": "BNE",
-          "duration_min": 1030
         }
       ],
       "price_insights": {
@@ -763,21 +729,21 @@
           "duration_min": 850
         },
         {
-          "price": 1624,
-          "airlines": "Jetstar, Qantas",
+          "price": 1531,
+          "airlines": "Cathay Pacific",
           "stops": 1,
           "layovers": [
-            "CNS"
+            "HKG"
           ],
           "flight_numbers": [
-            "QF 1582",
-            "JQ 15"
+            "CX 150",
+            "CX 566"
           ],
-          "depart": "2027-05-07 08:05",
+          "depart": "2027-05-07 12:20",
           "depart_airport": "BNE",
-          "arrive": "2027-05-07 19:00",
+          "arrive": "2027-05-08 06:40",
           "arrive_airport": "KIX",
-          "duration_min": 715
+          "duration_min": 1160
         }
       ],
       "price_insights": {
