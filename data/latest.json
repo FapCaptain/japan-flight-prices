@@ -1,6 +1,6 @@
 {
-  "checked": "2026-11-15",
-  "checked_at": "2026-11-15T19:32+10:00",
+  "checked": "2026-11-16",
+  "checked_at": "2026-11-16T07:30+10:00",
   "currency": "AUD",
   "per_person": true,
   "best_combined": {
@@ -22,21 +22,18 @@
       "return_date": null,
       "fare_type": "One-way",
       "cheapest": {
-        "price": 678,
-        "airlines": "China Southern",
-        "stops": 1,
-        "layovers": [
-          "CAN"
-        ],
+        "price": 693,
+        "airlines": "Jetstar",
+        "stops": 0,
+        "layovers": [],
         "flight_numbers": [
-          "CZ 636",
-          "CZ 8101"
+          "JQ 9"
         ],
-        "depart": "2027-05-07 23:00",
+        "depart": "2027-05-07 09:30",
         "depart_airport": "BNE",
-        "arrive": "2027-05-09 13:40",
+        "arrive": "2027-05-07 17:40",
         "arrive_airport": "NRT",
-        "duration_min": 2380
+        "duration_min": 550
       },
       "cheapest_direct": {
         "price": 693,
@@ -54,23 +51,6 @@
       },
       "top_options": [
         {
-          "price": 678,
-          "airlines": "China Southern",
-          "stops": 1,
-          "layovers": [
-            "CAN"
-          ],
-          "flight_numbers": [
-            "CZ 636",
-            "CZ 8101"
-          ],
-          "depart": "2027-05-07 23:00",
-          "depart_airport": "BNE",
-          "arrive": "2027-05-09 13:40",
-          "arrive_airport": "NRT",
-          "duration_min": 2380
-        },
-        {
           "price": 693,
           "airlines": "Jetstar",
           "stops": 0,
@@ -83,23 +63,6 @@
           "arrive": "2027-05-07 17:40",
           "arrive_airport": "NRT",
           "duration_min": 550
-        },
-        {
-          "price": 737,
-          "airlines": "China Airlines",
-          "stops": 1,
-          "layovers": [
-            "TPE"
-          ],
-          "flight_numbers": [
-            "CI 54",
-            "CI 104"
-          ],
-          "depart": "2027-05-07 22:50",
-          "depart_airport": "BNE",
-          "arrive": "2027-05-08 16:35",
-          "arrive_airport": "NRT",
-          "duration_min": 1125
         },
         {
           "price": 781,
@@ -119,25 +82,59 @@
           "duration_min": 1345
         },
         {
-          "price": 924,
-          "airlines": "China Airlines",
+          "price": 1074,
+          "airlines": "Scoot, Singapore Airlines",
           "stops": 1,
           "layovers": [
-            "TPE"
+            "SIN"
           ],
           "flight_numbers": [
-            "CI 54",
-            "CI 100"
+            "SQ 246",
+            "TR 884"
           ],
-          "depart": "2027-05-07 22:50",
+          "depart": "2027-05-07 23:50",
           "depart_airport": "BNE",
-          "arrive": "2027-05-08 13:15",
+          "arrive": "2027-05-09 07:05",
           "arrive_airport": "NRT",
-          "duration_min": 925
+          "duration_min": 1935
+        },
+        {
+          "price": 1078,
+          "airlines": "Singapore Airlines",
+          "stops": 1,
+          "layovers": [
+            "SIN"
+          ],
+          "flight_numbers": [
+            "SQ 236",
+            "SQ 638"
+          ],
+          "depart": "2027-05-07 14:45",
+          "depart_airport": "BNE",
+          "arrive": "2027-05-08 08:00",
+          "arrive_airport": "NRT",
+          "duration_min": 1095
+        },
+        {
+          "price": 1078,
+          "airlines": "Singapore Airlines",
+          "stops": 1,
+          "layovers": [
+            "SIN"
+          ],
+          "flight_numbers": [
+            "SQ 246",
+            "SQ 12"
+          ],
+          "depart": "2027-05-07 23:50",
+          "depart_airport": "BNE",
+          "arrive": "2027-05-08 17:30",
+          "arrive_airport": "NRT",
+          "duration_min": 1120
         }
       ],
       "price_insights": {
-        "lowest_price": 678,
+        "lowest_price": 693,
         "price_level": "typical",
         "typical_price_range": [
           435,
@@ -249,21 +246,21 @@
           "duration_min": 840
         },
         {
-          "price": 840,
-          "airlines": "Vietjet",
+          "price": 1026,
+          "airlines": "Singapore Airlines",
           "stops": 1,
           "layovers": [
-            "SGN"
+            "SIN"
           ],
           "flight_numbers": [
-            "VJ 84",
-            "VJ 828"
+            "SQ 266",
+            "SQ 622"
           ],
-          "depart": "2027-05-07 23:30",
+          "depart": "2027-05-07 18:10",
           "depart_airport": "BNE",
-          "arrive": "2027-05-09 08:30",
+          "arrive": "2027-05-08 21:35",
           "arrive_airport": "KIX",
-          "duration_min": 2040
+          "duration_min": 1705
         }
       ],
       "price_insights": {
@@ -379,7 +376,7 @@
           "duration_min": 1000
         },
         {
-          "price": 896,
+          "price": 897,
           "airlines": "Qantas",
           "stops": 0,
           "layovers": [],
@@ -472,7 +469,7 @@
           "duration_min": 1330
         },
         {
-          "price": 1077,
+          "price": 1078,
           "airlines": "China Airlines",
           "stops": 1,
           "layovers": [
@@ -487,6 +484,42 @@
           "arrive": "2027-05-18 10:35",
           "arrive_airport": "BNE",
           "duration_min": 870
+        },
+        {
+          "price": 1468,
+          "airlines": "Korean Air",
+          "stops": 1,
+          "layovers": [
+            "ICN"
+          ],
+          "flight_numbers": [
+            "KE 724",
+            "KE 407"
+          ],
+          "depart": "2027-05-17 12:35",
+          "depart_airport": "KIX",
+          "arrive": "2027-05-18 06:45",
+          "arrive_airport": "BNE",
+          "duration_min": 1030
+        },
+        {
+          "price": 3089,
+          "airlines": "Cathay Pacific, Jetstar",
+          "stops": 2,
+          "layovers": [
+            "HKG",
+            "CEB"
+          ],
+          "flight_numbers": [
+            "CX 503",
+            "CX 925",
+            "JQ 100"
+          ],
+          "depart": "2027-05-17 09:45",
+          "depart_airport": "KIX",
+          "arrive": "2027-05-18 05:05",
+          "arrive_airport": "BNE",
+          "duration_min": 1100
         }
       ],
       "price_insights": {
