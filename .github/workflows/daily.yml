@@ -1,10 +1,8 @@
 name: Daily flight prices
 
 on:
-  schedule:
-    # 16:47 UTC = 2:47am Brisbane. GitHub usually starts scheduled runs 3 to 4.5 hours late,
-    # so this lands roughly 6 to 7:30am, ahead of the 9:38am Claude task
-    - cron: "47 16 * * *"
+  # Manual runs only. The daily fetch now runs on a home PC at 7:30am via Task Scheduler
+  # (run_fetch.ps1), so there is no schedule here and SerpApi credits are only spent once a day.
   workflow_dispatch: {}
 
 permissions:
